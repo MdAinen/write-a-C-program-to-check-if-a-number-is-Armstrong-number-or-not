@@ -1,0 +1,1 @@
+# write-a-C-program-to-check-if-a-number-is-Armstrong-number-or-not
